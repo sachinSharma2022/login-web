@@ -11,7 +11,7 @@ const NewAccountInfo = ({ className }) => {
         <Link
           href="https://www.royalenfield.com/in/en/forms/sign-up/"
           target="_blank"
-          className="group border border-white h-9 text-white hover:bg-white hover:text-black transition duration-300 flex items-center justify-center min-w-[182px] px-4 mx-auto font-bold gap-2"
+          className="group border border-white h-10 text-white hover:bg-white hover:text-black transition duration-300 flex items-center justify-center min-w-[182px] px-4 mx-auto font-bold gap-2"
         >
           Create an account{" "}
           <span className="inline-block group-hover:animate-wiggleX">
